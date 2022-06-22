@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BF42D5EC-01D4-4BA7-89AE-1756C5CF72C5}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FIApp" expanded="True">
+            <Node name="FIApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="FIApp.Android" expanded="True">
+              <Node name="Packages" selected="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FIApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.82EEBC2E-B13D-43FA-A322-1A116F2FDCE8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FIApp.Android AndroidDesignerPreferredTheme="MainTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.RSBACA75T4YHSKPF" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

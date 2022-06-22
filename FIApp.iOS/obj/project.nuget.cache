@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qstl2msSNipJZp+nvvzhGI+LCeOgmMoxSmvleqNgzZTFnK6BPPrrU3JTB9s97OnTonPrN0Po7usjN+62oqRVXQ==",
+  "success": true,
+  "projectFilePath": "/Users/gowtham/IdeaProjects/Xamarin/FIApp/FIApp.iOS/FIApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/gowtham/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/gowtham/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/gowtham/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
